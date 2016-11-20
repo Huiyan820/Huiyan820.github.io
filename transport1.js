@@ -1,12 +1,12 @@
 
 var dataset;
 var dataset2 = [
-        {"title":"Budget","subtitle":"US$","ranges":[0,0,0],"measures":[0],"markers":[0,0,0]},
-        {"title":"Gross Profit","subtitle":"US$","ranges":[0,0,0],"measures":[0],"markers":[0,0,0]},
+        {"title":"Budget","subtitle":"US$","ranges":[0,0,0],"measures":[0],"markers":[0]},
+        {"title":"Gross Profit","subtitle":"US$","ranges":[0,0,0],"measures":[0],"markers":[0]},
         {"title":"IMDB Score","subtitle":"IMDB Score","ranges":[0,0,0],"measures":[0],"markers":[0]},
-        {"title":"User Reviews","subtitle":"Number of User Reviews","ranges":[0],"measures":[0],"markers":[0]},
-        {"title":"Movie Likes","subtitle":"Movie Facebook Likes","ranges":[0],"measures":[0],"markers":[0]},
-        {"title":"Director Likes","subtitle":"Number of Director Facebook Likes","ranges":[0],"measures":[0],"markers":[0]},
+        {"title":"User Reviews","subtitle":"Number of User Reviews","ranges":[0,0,0],"measures":[0],"markers":[0]},
+        {"title":"Movie Likes","subtitle":"Movie Facebook Likes","ranges":[0,0,0],"measures":[0],"markers":[0]},
+        {"title":"Director Likes","subtitle":"Number of Director Facebook Likes","ranges":[0,0,0],"measures":[0],"markers":[0]},
         {"title":"Actor1 Likes","subtitle":"Actor1 Facebook Likes","ranges":[0,0,0],"measures":[0],"markers":[0]},
         {"title":"Critic Reviews","subtitle":"Number of Critic Reviews","ranges":[0,0,0],"measures":[0],"markers":[0]}
     ];
